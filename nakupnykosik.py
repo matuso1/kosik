@@ -1,7 +1,7 @@
 #kategorie
 ovocie = ["jablko", "hruska", "banan", "mango"]
 mliecne = ["mlieko", "jogurt"]
-sladkosti = ["cukor", "cokolada"]
+
 
 
 #kosik
